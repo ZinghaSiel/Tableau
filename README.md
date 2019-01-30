@@ -50,7 +50,7 @@ The data included:
 
 ### Observation IV - Tripduration by Age
 
-![Tripduration-by-Age](IV-Tripduration_ by_Age.png)
+![Tripduration-by-Age](IV-Tripduration_by_Age.png)
 
 * The 4th observation shows how the average trip duration varies by age, with the age range between 16 and 18 having the highest average trip duration, followed by individuals aged 79, 71 and 49, which I found rather interesting.
 
